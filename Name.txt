@@ -1,3 +1,9 @@
 Qurbanali Sadigov
+<<<<<<< HEAD
 telebe
 Code Academy
+=======
+her kese salam 
+Necesiz 
+Proqramlasdirma
+>>>>>>> 361c0507c318c523e695adf672f9630b5f1da791
